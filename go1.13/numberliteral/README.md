@@ -28,3 +28,4 @@
 + strconv.ParseFloat按照字面量去解析会失败
 
 ## 参考文献
+[字面量设计](https://github.com/golang/proposal/blob/master/design/19308-number-literals.md)
